@@ -2,19 +2,19 @@
   "users": [
     {
       "name": "suneet",
-      "avatar": "https://avatars.githubusercontent.com/u/107480356?v=4",
+  
       "email": "suneetpanigrahi53@gmail.com",
       "password": "suneet",
       "id": 1
     },
     {
       "name": "swagat",
-      "avatar": "https://avatars.githubusercontent.com/u/107480356?v=4",
+ 
       "email": "swagat@gmail.com",
       "password": "swagat",
       "id": 2
     }
   ],
 
-  "mockSix": []
+  "recipes": []
 }
